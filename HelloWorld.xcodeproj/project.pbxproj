@@ -161,6 +161,7 @@
 				TargetAttributes = {
 					0CD88D401A8FF571009A4A58 = {
 						CreatedOnToolsVersion = 6.1.1;
+						DevelopmentTeam = SXKCTF23Q2;
 					};
 					0CD88D551A8FF571009A4A58 = {
 						CreatedOnToolsVersion = 6.1.1;
